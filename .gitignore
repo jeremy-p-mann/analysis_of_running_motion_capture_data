@@ -1,0 +1,18 @@
+# OS generated files #
+######################
+.DS_Store
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Notebook
+.ipynb_checkpoints
+
+# Logs and databases #
+######################
+*.log
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
